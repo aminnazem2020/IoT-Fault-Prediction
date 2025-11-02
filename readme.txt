@@ -1,4 +1,4 @@
-# IoT Sensor Fault Prediction Project
+### IoT Sensor Fault Prediction Project
 
 This project predicts faults in industrial IoT sensors using machine learning. 
 
