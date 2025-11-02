@@ -14,3 +14,4 @@ IoT sensor fault prediction in industrial networks is about using technology to 
 6. **Continuous Learning**: The system improves as it gathers more data.
 
 Technologies used: Python, Random Forest, Machine Learning, LLM, IoT.
+#CI/CD WORK
